@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CS450ActivityLifeCycle</string>
+    <string name="yay_text">Yay! You clicked to get here!</string>
+    <string name="toast_message">You clicked on Hello World!</string>
+</resources>
