@@ -23,7 +23,7 @@ public class MainActivity extends Activity {
             @Override
             public void onClick(View view) {
                 Toast.makeText(
-                        getApplicationContext(),
+                        MainActivity.this,   // a context
                         R.string.toast_message,
                         Toast.LENGTH_SHORT).show();
 
